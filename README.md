@@ -1,2 +1,2 @@
-# 10Hourse-course-3
+# 10Hours-course-1
 Created with CodeSandbox
